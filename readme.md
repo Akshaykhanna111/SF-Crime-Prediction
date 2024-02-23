@@ -4,15 +4,16 @@
 This project aims to predict crime categories in San Francisco using machine learning techniques. The dataset contains information about various incidents reported in San Francisco, including details such as time, location, and type of crime. Our goal is to build a predictive model using XGBoost, a popular gradient boosting algorithm, to classify crimes into multiple categories based on historical data. By leveraging machine learning, we aim to contribute to crime prevention efforts and enhance public safety measures in urban areas.
 
 ### Dependencies
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-plotly
-xgboost
-joblib
-pickle
+
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- plotly
+- xgboost
+- joblib
+- pickle
 
 ### Dataset
 The dataset used for this analysis contains information about various incidents reported in San Francisco. It includes details such as time, location, and type of crime.
